@@ -1,0 +1,36 @@
+.navbar{
+  background-color: #700909;
+}
+
+.navbar-nav li {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.bi-instagram {
+  color: rgb(239, 228, 228);
+  size: 20px;
+}
+
+.h6{
+  -webkit-text-fill-color: aliceblue;
+}
+
+a{
+  text-decoration: none;
+  color: #fcfbfb;
+
+}
+.i{
+  color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+

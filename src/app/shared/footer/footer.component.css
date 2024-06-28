@@ -1,0 +1,19 @@
+
+
+  footer {
+    background-color:#700909;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    white-space: nowrap;
+    width: 20;
+    height: 20px;
+  }
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+"cards": [
+  {
+    titulo:"LAND ROVER",
+    imagem:"assets/evoke-19.jpg",
+    ano:"2019",
+    cor:"azul",
+    quilometragem:"54.000",
+    modelo:"EVOQUE",
+  },
+  {
+    titulo:"FORD ECOSPORT ",
+    imagem:"assets/ecosport.jpg",
+    ano:"2019",
+    cor:"Branco",
+    quilometragem:"63.500",
+    modelo:"TITANIUM",
+  },
+  {
+    titulo:"FIAT TORO",
+    imagem:"",
+    ano:"2017",
+    cor:"Marron",
+    quilometragem:"128.000",
+    modelo:"FREEDON",
+  }
+];
